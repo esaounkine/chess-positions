@@ -1,0 +1,81 @@
+[Event "Тест 14.1"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2r3k1/p4ppp/b2rp3/q1pn4/1p6/1P4P1/P1R1PPBP/B1QR2K1 w - - 0 1"] 
+
+*
+
+[Event "Тест 14.2"]
+[Result "*"]
+[SetUp "1"]
+[FEN "1rb2rk1/p1q2pbp/1p1p2p1/2pP4/1P1pP3/P5PP/2Q2PB1/R1B1R1K1 b - - 0 1"] 
+
+*
+
+[Event "Тест 14.3"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3r1rk1/4pp1p/n5p1/p7/8/P1q4P/4QPP1/R1B1R1K1 w - - 0 1"] 
+
+*
+
+[Event "Тест 14.4"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/pp4pp/2n1bp2/2qNp3/5P2/4P1P1/P2RP1BP/4QR1K w - - 0 1"] 
+
+*
+
+[Event "Тест 14.5"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2kr3r/2p2p2/p1pb1npp/4R3/7B/2N5/PPP2PPP/R5K1 w - - 0 1"] 
+
+*
+
+[Event "Тест 14.6"]
+[Result "*"]
+[SetUp "1"]
+[FEN "2rr2k1/pb3p1p/1p4p1/7q/1P5b/4PP1Q/P2B2PP/1BRR2K1 b - - 0 1"] 
+
+*
+
+[Event "Тест 14.7"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4k2/q4p1Q/p1b1pp2/1pR5/3r4/5P2/PP4PP/1BR4K b - - 0 1"] 
+
+*
+
+[Event "Тест 14.8"]
+[Result "*"]
+[SetUp "1"]
+[FEN "8/NR1n2pp/3kpp2/1P6/8/7P/1r3PP1/5K2 w - - 0 1"] 
+
+*
+
+[Event "Тест 14.9"]
+[Result "*"]
+[SetUp "1"]
+[FEN "3rk2r/ppp1bppp/8/2n5/8/3N4/PPP2PPP/R1B1R1K1 w k - 0 1"] 
+
+*
+
+[Event "Тест 14.10"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r4rk1/ppp2ppp/3p4/2P5/4PR1q/8/PPP1B1P1/RNB3K1 b - - 0 1"] 
+
+*
+
+[Event "Тест 14.11"]
+[Result "*"]
+[SetUp "1"]
+[FEN "6k1/1p3pp1/p1p5/8/PP1Pp1q1/B3P1Pr/5RKR/6Q1 b - - 0 1"] 
+
+*
+
+[Event "Тест 14.12"]
+[Result "*"]
+[SetUp "1"]
+[FEN "r2qr1k1/pppbbpp1/2n1pn1p/8/2QP3B/2NBPN2/PP3PPP/R4RK1 b - - 0 1"]
