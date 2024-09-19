@@ -36,7 +36,7 @@
 [Event "Тест 5.6"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2rr2k1/p2q2bp/2bQp1p1/p1P5/4PPP1/P3B2P/4N1B1/3R2K1 w - - 0 1"]
+[FEN "2rr2k1/p2q2bp/2bQp1p1/p1P5/4PPP1/P3B2P/4N1B1/3R2K1 b - - 0 1"]
 
 *
 
@@ -64,7 +64,7 @@
 [Event "Тест 5.10"]
 [Result "*"]
 [SetUp "1"]
-[FEN "2r2rk1/1ppn2p1/1pn3qp/3pp3/8/2PPBN1P/PPQ1RPP1/3R2K1 w - - 0 1"]
+[FEN "2r2rk1/1ppn2p1/1pn3qp/3pp3/8/2PPBN1P/PPQ1RPP1/3R2K1 b - - 0 1"]
 
 *
 
@@ -78,4 +78,4 @@
 [Event "Тест 5.12"]
 [Result "*"]
 [SetUp "1"]
-[FEN "1r3b1N/2k3pp/1p2pn2/p4b2/P2p4/4P3/1P3PPP/R1B1K2R w KQ - 0 1"]
+[FEN "1r3b1N/2k3pp/1p2pn2/p4b2/P2p4/4P3/1P3PPP/R1B1K2R b KQ - 0 1"]

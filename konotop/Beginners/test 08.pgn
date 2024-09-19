@@ -8,7 +8,7 @@
 [Event "Тест 8.2"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r4rk1/pppqbppp/3p4/3Pp1B1/3n4/3P1N2/PPP2PPP/R2QR1K1 w - - 0 1"] 
+[FEN "r4rk1/pppqbppp/3p4/3Pp1B1/3n4/3P1N2/PPP2PPP/R2QR1K1 b - - 0 1"] 
 
 *
 
@@ -29,7 +29,7 @@
 [Event "Тест 8.5"]
 [Result "*"]
 [SetUp "1"]
-[FEN "r1b1rnk1/p1p2p1p/1p1q1np1/3p3P/3P1B2/P1PBPN2/2Q2PP1/R3K1QR w KQ - 0 1"] 
+[FEN "r1b1rnk1/p1p2p1p/1p1q1np1/3p3P/3P1B2/P1PBPN2/2Q2PP1/R3K1QR b KQ - 0 1"] 
 
 *
 
@@ -71,7 +71,7 @@
 [Event "Тест 8.11"]
 [Result "*"]
 [SetUp "1"]
-[FEN "6k1/6pp/b1r5/p1qp2Q1/Pp6/1P2RP2/2P4P/5NK1 w - - 0 1"] 
+[FEN "6k1/6pp/b1r5/p1qp2Q1/Pp6/1P2RP2/2P4P/5NK1 b - - 0 1"] 
 
 *
 
