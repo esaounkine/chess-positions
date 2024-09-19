@@ -18,3 +18,18 @@ clearAll = () => {
     }
 };
 
+transform('20', [
+    'r1b1k1nr/pppp1ppp/2n2q2/4N3/4P3/2N5/PPPP1KPP/R1BQ1B1R w kq - 0 1',
+'3rr1k1/ppp3p1/2q3bp/3npp2/7b/1P1P1PNP/P1PB2P1/1R1QRN1K b - - 0 1',
+'r3r1k1/pppq2pp/2np4/2b1pp2/2P3n1/P1NPPNPb/1P1B1P1P/R2QR1KB w - - 0 1',
+'5k1r/pr1p1p1p/2n1p1pP/2p1P1q1/2p1PR2/2P3P1/PP1Q1P2/2KR4 w - - 0 1',
+'r3k2r/pb1nbp2/1p2p3/2p4q/3N1BN1/3P2P1/PP2QPB1/R3R1K1 b kq - 0 1',
+'4r1k1/3q2pp/p7/1p6/1Q2B1n1/4P3/PP6/5RK1 w - - 0 1',
+'r3r1k1/pp1R2pp/2p2p2/5n2/8/PbN3P1/1PP2PBP/4R1K1 w - - 0 1',
+'3r1k2/ppp3p1/5p1p/4q3/4Q3/1PP2R1P/P5P1/7K w - - 0 1',
+'rn1q1rk1/ppp1bpp1/3p1n2/1B6/3PN1b1/2N1P3/PPP2PPP/R2QK2R w KQ - 0 1',
+'r1b1k2r/ppp2pBp/8/8/6q1/8/PPP2QPP/R2K1B1R w kq - 0 1',
+'3r1r1k/1p4bp/5pp1/p1n1p3/4P3/1PNb2BP/P2N1PP1/3RR1K1 b - - 0 1',
+'r5k1/pp2rpp1/2p1p2p/3n3R/2B5/3P3P/PPP1RPP1/6K1 b - - 0 1',
+])
+
